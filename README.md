@@ -10,7 +10,7 @@ Options data will be scrapped from the Yahoo stock finance API by python libarie
 
 1. Ticker, Type and Strike Price
 2. Declared Dividend / Estimated Dividend
-3. Interest Rate
+3. Applicable Interest Rate (e.g. SOFR)
 4. Ex-dividend date, Pay-date and Expiration Date
 
 ### Reminder
