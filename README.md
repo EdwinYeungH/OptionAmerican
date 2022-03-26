@@ -8,7 +8,7 @@ Options data will be scrapped from the Yahoo stock finance API by python libarie
 
 ### Reminder
 
-1. For a call options to be an early exercise candidate, the underlyin must pay a dividend.
+1. For a call options to be an early exercise candidate, the underlying must pay dividends.
 
 2. Call options should only be exercised immediately prior to the stock paying dividend. No other day will early exercise be optimal.
 
