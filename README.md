@@ -6,6 +6,13 @@ This program intends to help traders make decisions on early exercise of america
 
 Options data will be scrapped from the Yahoo stock finance API by python libaries.
 
+### Inputs Required
+
+1. Ticker, Type and Strike Price
+2. Declared Dividend / Estimated Dividend
+3. Interest Rate
+4. Ex-dividend date, Pay-date and Expiration Date
+
 ### Reminder
 
 1. For a call options to be an early exercise candidate, the underlying must pay dividends.
